@@ -12,6 +12,7 @@
     justify-content: center;
     padding-bottom: 12px;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .green-btn:hover,.green-btn:focus {
@@ -19,4 +20,47 @@
     color: #FFF;
 }
 /* Fim: Button do Header */
+
+
+/* Botões de download */
+.black-btn{
+    height: 260px;
+    height: 67px;
+}
+.download-btn {
+    background-color: #000;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.download-btn img {
+    width: 30px;
+    height: 30px;
+}
+
+.download-btn:hover {
+    background-color: #333;
+}
+
+
+/* Botão preto da caixa verde */
+.apply-btn{
+    background: #000000;
+    font-size: 22px;
+    font-weight: 800;
+    color: #FFFFFF;
+    border-radius: 5px;
+    min-width: 260px;
+    min-height: 67px;
+    margin-right: 70px;
+    margin: 50px 70px 49px 11px;
+}
 

@@ -1,0 +1,61 @@
+/* Seção de texto do download */
+
+.download {
+    margin-top: 201px;
+}
+
+.download h2 {
+    font-weight: 800;
+    font-size: 60.73px;
+    width: 557px;
+    height: 198px;
+    color: #000000;
+}
+
+.download p {
+    margin-top: 27px;
+    margin-bottom: 62px;
+    color: #9E9DA2;
+}
+
+/* Imagem da seção download */
+.viagem{
+    padding: 105px 147px 85px 103px;
+}
+
+/* Caixa verde inferior */
+.green-caixa {
+    background-color: #75BF7A;
+    margin-top: 86px;
+    min-width: 1280px;
+    min-height: 166px;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+/* Texto da caixa verde */
+.Let-link{
+    margin: 55px 100px 55px 72px;
+    width: 600px;
+    font-size: 24.6px;
+}
+
+/* Input da caixa verde */
+.input-number {
+  border-radius: 5px;
+  min-width: 499px;
+  min-height: 67px;
+  margin: 50px 11px 49px 122px;
+  padding: 0px 35px 0px 20px;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+/* Placeholder do input */
+.input-number::placeholder {
+  color: #DADADA;
+  font-size: 20px;
+}
