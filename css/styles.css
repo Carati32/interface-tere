@@ -1,0 +1,8 @@
+@import url("reset.css");
+@import url("header.css");
+@import url("button.css");
+body {
+    /* Escolhi utilizar a fonte Poppins, já que a Gilroy é uma fonte paga. */
+    font-family: 'Poppins', sans-serif;
+}
+
