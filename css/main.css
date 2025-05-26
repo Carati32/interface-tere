@@ -19,7 +19,7 @@
 }
 
 /* Imagem da seção download */
-.viagem{
+.viagem {
     padding: 105px 147px 85px 103px;
 }
 
@@ -33,11 +33,11 @@
     color: white;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
 }
 
 /* Texto da caixa verde */
-.Let-link{
+.Let-link {
     margin: 55px 100px 55px 72px;
     width: 600px;
     font-size: 24.6px;
@@ -45,17 +45,110 @@
 
 /* Input da caixa verde */
 .input-number {
-  border-radius: 5px;
-  min-width: 499px;
-  min-height: 67px;
-  margin: 50px 11px 49px 122px;
-  padding: 0px 35px 0px 20px;
-  font-size: 20px;
-  box-sizing: border-box;
+    border-radius: 5px;
+    min-width: 499px;
+    min-height: 67px;
+    margin: 50px 11px 49px 122px;
+    padding: 0px 35px 0px 20px;
+    font-size: 20px;
+    box-sizing: border-box;
 }
 
 /* Placeholder do input */
 .input-number::placeholder {
-  color: #DADADA;
-  font-size: 20px;
+    color: #DADADA;
+    font-size: 20px;
+}
+/* How Tere Works */
+.how-tere-works {
+    margin-top: 128px;
+}
+
+.how-tere-works h1 {
+    font-weight: 800;
+}
+
+.green-text {
+    color: #75BF7A;
+}
+
+
+.text-app {
+    color: #9E9DA2;
+    font-weight: 500px;
+    font-size: 23px;
+    margin-top: 25px;
+}
+
+.works h3 {
+    font-weight: 800;
+}
+
+.works p {
+    color: #9E9DA2
+}
+
+/* Imagem central */
+
+.celular {
+    width: 880px;
+    height: 560px;
+    margin-top: 63px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: block;
+}
+
+/* Coluna Esquerda */
+.how-esquerda {
+    margin-top: 128px;
+    p {
+        margin-left: 100px;
+    }
+}
+
+.shopping {
+    margin-left: 115px;
+}
+
+.suits {
+    margin-left: 92px;
+}
+
+.h3-request-ride {
+    font-weight: 800;
+    margin-top: 4px;
+    margin-left: 120px;
+    white-space: nowrap;
+}
+
+.h3-instant-notifications{
+    margin-top: 4px;
+}
+.number-one,.number-three{
+    margin-left: 280px;
+}
+
+.number-two,.number-four{
+    margin-right: 280px;
+}
+
+/* Coluna Direita */
+
+.how-direita{
+    margin-top: 128px;
+    p{
+        margin-right: 100px;
+        font-weight: 500;
+    }
+}
+
+.h3-post{
+    margin-top: 4px;
+    margin-right: 180px;
+}
+.h3-cashless{
+    margin-top: 4px;
+    margin-right: 80px;
+    white-space: nowrap;
 }
