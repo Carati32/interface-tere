@@ -3,9 +3,12 @@
 @import url("header.css");
 @import url("main.css");
 @import url("footer.css");
+@import url("responsive.css");
 body {
     /* Escolhi utilizar a fonte Poppins, já que a Gilroy é uma fonte paga. */
     font-family: 'Poppins', sans-serif; 
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
+
+
 

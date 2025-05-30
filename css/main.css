@@ -50,8 +50,8 @@
 /* Input da caixa verde */
 .input-number {
     border-radius: 5px;
-    min-width: 499px;
-    min-height: 67px;
+    width: 499px;
+    height: 67px;
     margin: 50px 11px 49px 122px;
     padding: 0px 35px 0px 20px;
     font-size: 20px;

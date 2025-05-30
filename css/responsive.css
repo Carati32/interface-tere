@@ -1,0 +1,255 @@
+@media (max-width: 576px) {
+
+  /* HEADER  */
+  .navbar-nav {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .logo {
+    display: flex;
+    height: 35px;
+    width: 20px;
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+
+  /*  DOWNLOAD SECTION  */
+  .viagem {
+    order: 1;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .viagem img {
+    width: 100%;
+    height: auto;
+  }
+
+  .download {
+    order: 2;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .download h2 {
+    font-size: 28px;
+    width: 100%;
+  }
+
+  .download p {
+    font-size: 16px;
+    margin: -72px 0px 56px 35px;
+    width: 80%;
+  }
+
+  .black-btn {
+    display: flex;
+    gap: 15px;
+  }
+
+  .download-btn {
+    width: 50%;
+    height: 55px;
+    font-size: 14px;
+  }
+
+  /*  GREEN BOX  */
+  .green-caixa {
+    display: flex;
+    flex-direction: column;
+    min-width: unset;
+    justify-content: center;
+    align-items: center;
+    min-height: 249px;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .Let-link {
+    margin: 10px 33px 10px 10px;
+    width: 100%;
+    font-size: 35px;
+  }
+
+  .green-caixa input {
+    display: flex;
+    margin-right: 120px;
+    width: 400px;
+    height: 80px;
+  }
+  .dentro{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .apply-btn {
+    width: 280px;
+    height: 48px ;
+    margin: 41px  22px 30px 18px;
+  }
+
+  /*  HOW TERE WORKS  */
+  .how-tere-works {
+    order: 5;
+    text-align: center;
+  }
+
+  .how-tere-works h1 {
+    font-size: 34px;
+  }
+
+  .text-app {
+    font-size: 22px;
+  }
+
+  .celular {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+
+  .number-one,.number-two,.number-three,.number-four {
+    margin: 30px 10px 10px 10px;
+    display: block;
+  }
+
+  .h3-request-ride,
+  .h3-instant-notifications,
+  .h3-post,
+  .h3-cashless {
+    margin: 10px 0;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .p-request-ride,
+  .p-instant-notifications,
+  .p-post,
+  .p-cashless {
+    text-align: center;
+    margin: 0;
+    font-size: 22px;
+    white-space: nowrap;
+
+  }
+
+
+
+  /*  TERE BENEFITS  */
+  .tere-benefits{
+    position: relative;
+  }
+  .tere-benefits h1 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .benefit-title {
+    font-size: 18px;
+    text-align: center;
+    margin: 20px;
+  }
+
+  .benefit-desc-one,
+  .benefit-desc-two,
+  .benefit-desc-three {
+    margin-top: 10px;
+    margin: 0;
+    
+    
+    
+    text-align: center;
+    
+  }
+
+  .benefit-desc-one{
+    top: 700px;
+    position: absolute;
+  }
+
+  .benefit-desc-two{
+    margin-left: 50px;
+    top: 1350px;
+    position: absolute;
+  }
+
+  .benefit-desc-three{
+    font-size: 18px;
+    margin-right: 200px;
+    top: 1950px;
+    position: absolute;
+  }
+
+  .topo-one,
+  .topo-two,
+  .topo-three {
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+
+  .img-tempo,
+  .dinheiro,
+  .pessoa-notebook {
+    
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+
+  /*  FOOTER  */
+  .tere-footer .row {
+    gap: 20px;
+    text-align: center;
+    
+  }
+
+  .abaixo-title{
+    order: 1;
+    flex-direction: column-reverse;
+  }
+  .logo-footer{
+    margin-bottom: 30px;
+    width: 180px;
+    height: 60px;
+  }
+
+  .button-footer-store {
+    margin-right: 0;
+  }
+
+  .buttons-footer{
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .download-btn-footer {
+    width: 10px;
+   
+  }
+  
+  #segundo-tex-footer{
+    display: none;
+  }
+
+  .linha-horizontal {
+    width: 100%;
+  }
+
+  .footer-title {
+    margin-top: 50px;
+    font-size: 18px;
+  }
+
+  .footer-text {
+    font-size: 14px;
+  }
+
+  .codematics {
+    font-size: 14px;
+    color: #9E9DA2;
+  }
+}
